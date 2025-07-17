@@ -1,0 +1,160 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_1",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the page should consist of at least one HTML list item and the commentsList should be rendered using a unique key as a prop for each comment item",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_2",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML main heading element with text content as \"Comments\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_3",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML paragraph element with text content starting with \"Say Something\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_4",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of an HTML form element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_5",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML input element with a placeholder as \"Your Name\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_6",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML textarea element with a placeholder as \"Your Comment\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_7",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML button element with text content as \"Add Comment\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_8",
+      "evaluation_result": "CORRECT",
+      "title": "Page should consist of HTML image element with alt as \"comments\" and src value as URL for comments image",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_9",
+      "evaluation_result": "CORRECT",
+      "title": "Page should initially consist of HTML element with text content as \"0\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_10",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML input element for name, then the value provided should be updated in the value of the input element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_11",
+      "evaluation_result": "CORRECT",
+      "title": "When a non-empty value is provided in the HTML textarea element for comment, then the value provided should be updated in the value of the textarea element",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_12",
+      "evaluation_result": "CORRECT",
+      "title": "When non-empty values are provided in the HTML input element and HTML text area element and the \"Add Comment\" button is clicked, then the values inside the input elements should be updated to their initial state",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_13",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comments count should be incremented by one",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_14",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the page should consist of an HTML unordered list to display the list of comments",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_15",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the page should consist of at least one HTML list item to display the comment",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_16",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the name provided in the HTML input element should be displayed in the comment",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_17",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comment provided in the HTML textarea element should be displayed in the comment",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_18",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comment should contain an HTML paragraph element with text containing how long ago the comment was posted",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_19",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comment should contain an HTML image element with alt as \"like\" and src as the URL for the Like image",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_20",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comment should contain an HTML button element with text content as \"Like\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_21",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comment should contain an HTML button element with testid attribute value as \"delete\"",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_22",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, then the comment should contain an HTML image element with alt as \"delete\" and src as the URL for the delete image",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_23",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, and the HTML button with text content as \"Like\" is clicked, then the src value of the HTML image with alt text as \"like\" should be changed to URL for the Liked image",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_24",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added and liked, and the HTML button with text content as \"Like\" is clicked again, then the src value of the HTML image with alt text as \"like\" should be changed to URL for the Like image",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_25",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, and the HTML button with testid as \"delete\" is clicked, then the comment item should be deleted from the list of comments",
+      "errorMessages": []
+    },
+    {
+      "test_case_id": "RJSCPP3T4C_TEST_26",
+      "evaluation_result": "CORRECT",
+      "title": "When a comment is added, and the HTML button with testid as \"delete\" is clicked, then the count of the comments should be decremented by one",
+      "errorMessages": []
+    }
+  ]
+}
