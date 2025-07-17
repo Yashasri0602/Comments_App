@@ -45,16 +45,12 @@ comments-app/
 <details> <summary><strong>🎨 Assets Used</strong></summary>
 Header Image:
 https://assets.ccbp.in/frontend/react-js/comments-app/comments-img.png (alt: comments)
-
 Like Button:
 https://assets.ccbp.in/frontend/react-js/comments-app/like-img.png
-
 Liked Button:
 https://assets.ccbp.in/frontend/react-js/comments-app/liked-img.png
-
 Delete Icon:
 https://assets.ccbp.in/frontend/react-js/comments-app/delete-img.png
-
 </details>
 
 📄 License
